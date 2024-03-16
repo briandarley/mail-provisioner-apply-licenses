@@ -1,0 +1,50 @@
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# NuGet packages
+*.nuget
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.vscode/
+*.sln
+*.suo
+*.user
+*.csproj
+*.csproj.user
+*.sln.docstates
+
+# Resharper files
+_ReSharper*/
+*.resharper
+*.resharper.user
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+docs/dotnet-cli-commands/*
+
+# Unity files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uild[Ll]og.txt
+[Uu]nityGenerated/
+
+.fake
